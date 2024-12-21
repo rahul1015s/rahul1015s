@@ -15,6 +15,9 @@
   <a href="https://twitter.com/rahul1015s" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://linkedin.com/in/rahul1015s" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://instagram.com/rahul1015s" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -24,23 +27,20 @@
 
 ### 🛠️ Technologies & Tools:
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E" alt="Java" />
-  </a>
+  <a href="https://html.spec.whatwg.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50" />
+  </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  </a>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50" />
+  </a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50" />
+  </a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="50" height="50" />
   </a>
 </p>
 
@@ -65,4 +65,4 @@
 
 ---
 
-💻 **_“Code today, create tomorrow!”_**  
+💻 **_“Code today, create tomorrow!”_**
