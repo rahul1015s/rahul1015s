@@ -59,10 +59,4 @@
 
 ---
 
-### 📝 Fun Fact:
-- I started my self-taught development journey in **July 2024**, and I'm on a mission to inspire others with my progress!  
-- I document my journey on my YouTube channel: **[@SelfTaughtSprint](https://www.youtube.com/@SelfTaughtSprint)**  
-
----
-
 💻 **_“Code today, create tomorrow!”_**
