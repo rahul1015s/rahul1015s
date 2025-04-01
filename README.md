@@ -6,7 +6,7 @@
 ### 🌱 About Me:
 - 🚀 Currently diving deep into **React.js** and **Data Structures & Algorithms (DSA)**.  
 - 🎯 Aspiring to become a self-taught developer who builds meaningful projects.  
-- 📬 Reach me at: **rahulvermakumar10@gmail.com**
+- 📬 Reach me at: **rahulwebjs@gmail.com**
 
 ---
 
