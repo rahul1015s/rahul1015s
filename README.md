@@ -1,132 +1,51 @@
 <div align="center">
 
-# Rahul Verma
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f1f3d&height=170&section=header&text=Rahul%20Verma&fontColor=e8d9b0&fontSize=44&fontAlignY=38&desc=Full%20stack%20developer%20from%20Patna%2C%20India&descSize=16&descAlignY=60" alt="Rahul Verma" width="100%" />
 
-**Full Stack Developer · React · Next.js · Node.js · MongoDB**
+**Looking for an internship or junior developer role. Remote or India.**
 
-*Building real-world web applications and actively seeking internship and junior developer opportunities*
-
-<p>
-  <a href="mailto:rahulwebjs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/rahul1015s">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://rahulwebdev.in">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/rahul1015s">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/rahul1015s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rahulwebjs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br />
 
-## About
+## Stack
 
-I'm a self-taught full stack developer from Patna, India, focused on building and deploying real-world web applications.
-
-I work across the full development lifecycle, including responsive frontend development, REST APIs, database design, authentication, third-party integrations, and production deployment.
-
-I have worked on freelance and client projects as a developer, along with personal projects that help me explore different areas of full stack development. Some client projects are privately owned, so their source code cannot be publicly shared.
-
-I'm currently looking for internship and junior developer opportunities where I can work with experienced engineers, learn strong software engineering practices, and contribute to real products.
-
----
-
-## Projects
-
-| Project                  | Description                                                                                                                                                                 | Stack                                              | Links                                                                                    |
-| :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------- | :--------------------------------------------------------------------------------------- |
-| **GenExpence**           | Personal finance tracker with expense, budget and investment tracking, invoicing, PWA and offline support                                                                   | Next.js, TypeScript, Tailwind CSS, shadcn/ui, GSAP | [Live](https://genexpence.vercel.app) · [Code](https://github.com/rahul1015s/genexpence) |
-| **Premex Power Systems** | Freelance client project for a LiFePO4 battery company. Built an e-commerce platform and admin system with product management, inventory, warranty QR system and 30+ routes | Next.js, MongoDB, ImageKit, Nodemailer, GSAP       | [Live](https://www.premexpowersystems.com)                                               |
-| **Oplus Cowork**         | Client website for a coworking and workspace business                                                                                                                       | Next.js, React, Tailwind CSS                       | [Live](https://www.opluscowork.com)                                                      |
-| **RealSkill**            | Client website focused on learning and skill development                                                                                                                    | Next.js, React, Tailwind CSS                       | [Live](https://www.realskill.in)                                                         |
-| **Carryzo CRM**          | Production CRM platform developed as part of client work                                                                                                                    | Next.js, React, MongoDB                            | [Live](https://crm.carryzo.in)                                                           |
-| **Portfolio**            | Personal developer portfolio showcasing my projects, skills and experience                                                                                                  | Next.js, React, Tailwind CSS                       | [Live](https://rahulwebdev.in)                                                           |
-
-> **Note:** Client projects listed above are projects I worked on as a developer. I do not own the source code of these projects and cannot publicly share their repositories due to client/company terms and confidentiality.
-
----
-
-## Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="32" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" title="CSS3" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,java,kotlin,androidstudio,python,git,vercel&perline=14" alt="Tech stack" />
 </p>
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `HTML5` · `CSS3` · `Responsive Design`
-
-### Mobile
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="32" title="React Native" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square" alt="Codex" />
+  <br />
+  <sub>I build with AI coding tools daily to ship faster, and I review and understand what goes into my code.</sub>
 </p>
 
-`React Native` · `Expo`
+<br />
 
-*Currently expanding my React Native and Expo experience through hands-on development.*
+## Things I built
 
-### Backend
+| | |
+| :-- | :-- |
+| <img src="assets/studyle.jpg" alt="Studyle" width="100%" /><br/>**Studyle**<br/>Library management for India: seats, shifts, attendance and fees. Android app and web.<br/>`Expo` `TypeScript` `MongoDB`<br/>[Play Store](https://play.google.com/store/apps/details?id=com.vermaxlabs.studyle) · [studyle.in](https://studyle.in) | <img src="assets/premex.jpg" alt="Premex Power Systems" width="100%" /><br/>**Premex Power Systems**<br/>Client site and admin system for a battery company: store, inventory, warranty QR codes.<br/>`Next.js` `MongoDB`<br/>[Live](https://www.premexpowersystems.com) |
+| <img src="assets/realskill.jpg" alt="RealSkill" width="100%" /><br/>**RealSkill**<br/>Client website for a skills and learning brand.<br/>`Next.js` `Tailwind`<br/>[Live](https://www.realskill.in) | <img src="assets/genexpence.jpg" alt="GenExpence" width="100%" /><br/>**GenExpence**<br/>Expense, budget and invoice tracker. Installable PWA that works offline.<br/>`Next.js` `TypeScript`<br/>[Live](https://genexpence.vercel.app) · [Code](https://github.com/rahul1015s/genexpence) |
+| <img src="assets/playlearn.jpg" alt="Playlearn" width="100%" /><br/>**Playlearn**<br/>Turns a YouTube playlist into a course with progress, notes and a custom player. Linux desktop app.<br/>`JavaScript`<br/>[Code](https://github.com/rahul1015s/playlearn) | <img src="assets/anchor.jpg" alt="Anchor" width="100%" /><br/>**Anchor**<br/>Focus sessions that block distracting sites and apps until you finish. Linux desktop and Android.<br/>`JavaScript` `Kotlin`<br/>[Desktop](https://github.com/rahul1015s/anchor) · [Android](https://github.com/rahul1015s/anchor-android) |
+| <img src="assets/localbridge.jpg" alt="LocalBridge" width="100%" /><br/>**LocalBridge**<br/>Send files between phone and Linux over your own Wi-Fi. No cloud.<br/>`Kotlin` `Python`<br/>[Code](https://github.com/rahul1015s/LocalBridge) |   |
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="32" title="Express.js" />
-</p>
+**More**
 
-`Node.js` · `Express.js` · `REST APIs` · `Authentication` · `Session Management` · `Zod Validation` · `Nodemailer`
+| Project | What it is | Stack | Links |
+| :-- | :-- | :-- | :-- |
+| **Carryzo CRM** | CRM for a logistics business, in production. | `Next.js` `MongoDB` | [Live](https://crm.carryzo.in) |
+| **frontend-skills** | Prompt kits for generating animated single-file websites. | `HTML` `GSAP` | [Code](https://github.com/rahul1015s/frontend-skills) |
 
-### Database
+<sub>Client project source code is private under their terms. The live sites are linked.</sub>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="32" title="Mongoose" />
-</p>
-
-`MongoDB` · `Mongoose` · `Database Design`
-
-### Tools & Deployment
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="32" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="32" title="Vercel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="32" title="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="32" title="Postman" />
-</p>
-
-`Git` · `GitHub` · `Vercel` · `VS Code` · `Postman` · `ImageKit`
-
-### AI-Assisted Development
-
-I use AI development tools such as **Claude Code** and **Codex** to improve development productivity, explore solutions, debug issues, and speed up repetitive tasks while reviewing and understanding the generated code myself.
-
----
-
-## What I Work With
-
-* Full stack web application development
-* REST API development and integration
-* Authentication and session management
-* MongoDB database design and integration
-* Responsive UI development
-* Admin dashboards and business applications
-* E-commerce functionality
-* Production deployment
-* React Native and Expo development
-
----
+<br />
 
 <div align="center">
-  <sub>Open to Full Stack · Frontend · React · React Native internship and junior developer opportunities · Remote or India</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f1f3d&height=90&section=footer" alt="" width="100%" />
 </div>
